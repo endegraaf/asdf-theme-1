@@ -6,7 +6,18 @@ The following themes are put in this repo:
 - oomox-asdf-theme-darkblue-gradient
 - oomox-asdf-theme-darkblue-flat
 
+## Screenshots
+
 The rest of Gnome (shell, icons, etc) is left to defaults. 
+
+![oomox-asdf-theme-1](/screenshots/oomox-asdf-theme-1.png?raw=true "Oomox-asdf-theme-1")
+
+![oomox-asdf-theme-darkblue-gradient](/screenshots/oomox-asdf-theme-darkblue-gradient.png?raw=true "Oomox-asdf-theme-darkblue-gradient")
+
+![oomox-asdf-theme-darkblue-flat](/screenshots/oomox-asdf-theme-darkblue-flat.png?raw=true "Oomox-asdf-theme-darkblue-flat")
+
+## Installation
+As you would normally do, copy the themes to your `~/.themes/` folder. You can now set it using 'gnome-tweak-tool` or from command line if you prefer. 
 
 There is one manual step you need to do because there are some window resize issues with the default generated themes. That is create (or append) to `~/.config/gtk-3.0/gtk.css` the following lines.
 
